@@ -1,0 +1,3 @@
+@import url(./style.css);
+@import url(./test.css);
+/* 可以通过@import引入其它的css资源 */
